@@ -1,0 +1,34 @@
+# Ignore system files and folders
+../../../*
+
+# Ignore OneDrive-related files
+*.lnk
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.dat
+*.ini
+
+# Ignore Windows system folders
+Application Data/
+Cookies/
+Documents/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+AppData/
+Saved Games/
+Searches/
+Tracing/
+Videos/
+Favorites/
+Downloads/
+Pictures/
+Contacts/
+Music/
+Desktop/
