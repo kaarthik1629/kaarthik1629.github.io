@@ -57,7 +57,7 @@ header {
 }
 
 header h2 {
-    margin-top: 50px !important; /* Add more vertical space */
+    margin-top: 10px !important; /* Add more vertical space */
     padding-top: 0; /* In case other padding is applied */
 }
 
@@ -3140,7 +3140,7 @@ header h2 {
 		}
 
 		.spotlight.left .content, .spotlight.right .content {
-			height: 101%;
+			height: 100%;
 			padding: 2em 3em;
 			top: 0;
 			width: 30%;
